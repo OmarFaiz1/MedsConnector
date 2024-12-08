@@ -24,7 +24,12 @@ const Footer = () => {
         <div>
           <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-2 text-gray-600'>
-            <li>Product of Silicon Pixels</li>
+            <li>Product of :</li>
+            <li>
+              <a href="https://www.siliconpix.com" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+                Visit SiliconPix
+              </a>
+            </li>
             <li>contact@siliconpix.com</li>
           </ul>
         </div>
