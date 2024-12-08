@@ -27,7 +27,7 @@ const Footer = () => {
             <li>Product of :</li>
             <li>
               <a href="https://www.siliconpix.com" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
-                Visit SiliconPix
+                Silicon Pixels
               </a>
             </li>
             <li>contact@siliconpix.com</li>
